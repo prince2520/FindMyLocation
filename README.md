@@ -6,9 +6,8 @@
    Discover Your World with Precision - Find My Location Chrome Extension
 </p>
 
-<hr>
+</br>
 
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
 
