@@ -35,6 +35,15 @@ pnpm build
 npm run build
 ```
 
+## Making production build
+
+Add environment file (.env) in your root directory: 
+
+```bash
+PLASMO_PUBLIC_IPINFO=TOKEN //Add your own token from  https://ipinfo.io/
+PLASMO_PUBLIC_IPADDRESS=https://api.ipify.org?format=json
+```
+
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
 
 ## Submit to the webstores
