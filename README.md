@@ -35,7 +35,7 @@ pnpm build
 npm run build
 ```
 
-## Making production build
+## ENVIRONMENT VARIABLES
 
 Add environment file (.env) in your root directory: 
 
