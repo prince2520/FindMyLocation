@@ -1,3 +1,13 @@
+<p align="center" >
+   <img  align=center  width="15%" src="https://github.com/prince2520/FindMyLocation/assets/68547999/4008acec-a93c-451d-af7f-4b2989d3e69d">
+</p>
+
+<p align="center">
+   Discover Your World with Precision - Find My Location Chrome Extension
+</p>
+
+<hr>
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
